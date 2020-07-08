@@ -1,4 +1,4 @@
-# CSCI571 Homework
+# CSCI571 Summer2020 Homework
 ## Homework3: HTML and CSS Exercise
 #### Objectives
 ##### ● Become familiar with HTML and CSS technologies.
