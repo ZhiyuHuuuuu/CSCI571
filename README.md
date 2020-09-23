@@ -1,10 +1,10 @@
 # CSCI571 Summer2020 Homework
-## Homework3: HTML and CSS Exercise
+## [Homework3: HTML and CSS Exercise](https://zhiyuhuuuuu.github.io/CSCI571/Homework3/Homework3_1
 #### Objectives
 ##### ● Become familiar with HTML and CSS technologies.
 ##### ● Learn how to imitate a web page.
 
-## Homework6: Server-side Scripting using Python Flask, JSON and eBay API
+## [Homework6: Server-side Scripting using Python Flask, JSON and eBay API](https://20200607t1912090-dot-gcphomework6.appspot.com/index)
 #### Objectives
 ##### ● Get experience with Python programming language and Flask framework.
 ##### ● Get experience creating web pages using HTML, CSS, JavaScript, HTML DOM and XMLHTTPRequest object.
