@@ -1,5 +1,5 @@
 # CSCI571 Summer2020 Homework
-## [Homework3: HTML and CSS Exercise](https://zhiyuhuuuuu.github.io/CSCI571/Homework3/Homework3_1
+## [Homework3: HTML and CSS Exercise](https://zhiyuhuuuuu.github.io/CSCI571/Homework3/Homework3_1)
 #### Objectives
 ##### ● Become familiar with HTML and CSS technologies.
 ##### ● Learn how to imitate a web page.
