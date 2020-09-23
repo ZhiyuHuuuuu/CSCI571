@@ -19,7 +19,7 @@
 ##### ● You must refer to the grading guidelines, the video, the specs and Piazza. Styling is graded this time and the points breakup is mentioned in guidelines.
 
 
-## Homework8: Ajax, JSON, Responsive Design and Node.js -- Product Search (AJAX/JSON/HTML5/Bootstrap/Angular /Node.js/Cloud Exercise)
+## [Homework8: Ajax, JSON, Responsive Design and Node.js -- Product Search (AJAX/JSON/HTML5/Bootstrap/Angular /Node.js/Cloud Exercise)](https://zhiyuhomework8frontend.wl.r.appspot.com/)
 #### Objectives
 ##### ● Get familiar with the AJAX and JSON technologies.
 ##### ● Use a combination of HTML5, Bootstrap and Angular on client side.
